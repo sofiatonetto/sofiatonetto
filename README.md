@@ -12,11 +12,11 @@ Meu nome é Sofia Valentina Tonetto Duarte e estou cursando Informática para In
 *tocar teclado🎹;
 *informática💻;
 
-###Para entrar em contato:
+##Para entrar em contato:
 📧sofiavtonetto@gmail.com 
 ou 
 📍 [instagram](https://www.instagram.com/sofia_vtd/)
 
-###Pronouns: ela/dela
+##Pronouns: ela/dela
 
-###curiosidades: minha cor favorita é verde.
+##curiosidades: minha cor favorita é verde.
