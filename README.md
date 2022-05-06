@@ -15,4 +15,4 @@ Para entrar em contato:
 ou 
 📍 [instagram](https://www.instagram.com/sofia_vtd/)
 Pronouns: ela/dela
-###curiosidades: minha cor favorita é verde, minha fruta preferida é limão e minha comida preferida é strogonoff.
+###curiosidades: minha cor favorita é verde.
