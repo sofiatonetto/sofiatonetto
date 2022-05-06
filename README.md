@@ -4,11 +4,17 @@ Meu nome é Sofia Valentina Tonetto Duarte e estou cursando Informática para In
 
 ##Hobbies:
 *gosto de jogar vôlei🏐;
+
 *gosto de ler📚;
+
 *gosto de cozinhar🥣;
+
 *gosto de viajar✈;
+
 *aprender novos idiomas🌎;
+
 *tocar teclado🎹;
+
 *informática💻;
 
 ##Para entrar em contato:
