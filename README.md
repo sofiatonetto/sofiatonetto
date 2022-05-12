@@ -1,28 +1,36 @@
 ### Hi there 👋
 
-Meu nome é Sofia Valentina Tonetto Duarte e estou cursando Informática para Internet no CTISM. Sou gaúcha de Santa Maria. Tenho 15 anos.
+Meu nome é Sofia Valentina Tonetto Duarte e estou cursando Informática para Internet no CTISM. Sou gaúcha de Santa Maria. Tenho 15 anos. 
 
-##Hobbies:
+## Hobbies:
 
-gosto de jogar vôlei🏐;
+* gosto de jogar vôlei🏐;
 
-gosto de ler📚;
+* gosto de ler📚;
 
-gosto de cozinhar🥣;
+*gosto de cozinhar🥣;
 
-gosto de viajar✈;
+* gosto de viajar✈;
 
-aprender novos idiomas🌎;
+* aprender novos idiomas🌎;
 
-tocar teclado🎹;
+* tocar teclado🎹;
 
-informática💻;
+* informática💻;
 
-##Para entrar em contato:
+### 🎂 meu aniversário é dia 15/03.
+
+## Pronouns: ela/dela
+
+### Idiomas: atualmente estou estudando inglês e italiano.
+
+## Curiosidade: minha cor favorita é verde, penso em fazer ciências da computação no futuro. 
+
+## Para entrar em contato:
 📧sofiavtonetto@gmail.com 
 ou 
 📍 [instagram](https://www.instagram.com/sofia_vtd/)
 
-##Pronouns: ela/dela
-
-##curiosidade: minha cor favorita é verde.
+### Séries favoritas
+* The 100: 
+![the100]https://minhaseriefavorita.com/wp-content/uploads/2021/09/the100season7.jpg
