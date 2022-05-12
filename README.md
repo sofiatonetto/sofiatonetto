@@ -8,7 +8,7 @@ Meu nome é Sofia Valentina Tonetto Duarte e estou cursando Informática para In
 
 * gosto de ler📚;
 
-*gosto de cozinhar🥣;
+* gosto de cozinhar🥣;
 
 * gosto de viajar✈;
 
