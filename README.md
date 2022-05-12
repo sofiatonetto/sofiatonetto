@@ -18,15 +18,23 @@ Meu nome é Sofia Valentina Tonetto Duarte e estou cursando Informática para In
 
 * informática💻;
 
-### 🎂 meu aniversário é dia 15/03.
+### 🎂:
+ meu aniversário é dia 15/03.
 
 ## Pronouns: ela/dela
 
-### Idiomas: atualmente estou estudando inglês e italiano.
+### Idiomas: 
+atualmente estou estudando inglês e italiano.
 
-## Alguns livros: O ódio que você semeia; O iluminado; Uma rosa no concreto; Na hora da virada;
+## Alguns livros: 
+* O ódio que você semeia; 
+* O iluminado;
+* Uma rosa no concreto;
+* Na hora da virada;
 
-## Curiosidade: minha cor favorita é verde, penso em fazer ciências da computação no futuro. 
+## Curiosidade: 
+* minha cor favorita é verde;
+* penso em fazer ciências da computação no futuro; 
 
 ## Para entrar em contato:
 📧sofiavtonetto@gmail.com 
@@ -35,4 +43,5 @@ ou
 
 ### Séries favoritas
 * The 100: 
-![the100]https://minhaseriefavorita.com/wp-content/uploads/2021/09/the100season7.jpg
+
+![the100](https://minhaseriefavorita.com/wp-content/uploads/2021/09/the100season7.jpg)
