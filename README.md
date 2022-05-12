@@ -24,6 +24,8 @@ Meu nome é Sofia Valentina Tonetto Duarte e estou cursando Informática para In
 
 ### Idiomas: atualmente estou estudando inglês e italiano.
 
+## Alguns livros: O ódio que você semeia; O iluminado; Uma rosa no concreto; Na hora da virada;
+
 ## Curiosidade: minha cor favorita é verde, penso em fazer ciências da computação no futuro. 
 
 ## Para entrar em contato:
