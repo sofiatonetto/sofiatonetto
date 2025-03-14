@@ -1,7 +1,7 @@
 ### Hi there! Eu sou a Sofia Valentina Tonetto.
 <div>
   <p>Egressa do CTISM - Colégio Técnico Industrial de Santa Maria</p>
-  <p>Estudante da AMF - Sistemas de Informação</p>
+  <p>Estudante da AMF e da UFSM - Sistemas de Informação</p>
 </div>
  
 ## Contato
