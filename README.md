@@ -69,5 +69,5 @@
 
 ## 📌 Estágio
 
-> **Desenvolvedora em empresa de tecnologia 
-> 📅 2022 - 2024 ·   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+> **Desenvolvedora em empresa de tecnologia**
+> 📅 2022 - 2024 · <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
