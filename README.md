@@ -27,7 +27,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/>
-  <img alt="Prolog" src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white"/>
+  <img alt="Prolog" src="https://github.com/sofiatonetto/sofiatonetto/blob/a28ca82f25d0f73a6823b2ff3600d4df2a1a03bc/assets/prolog.png)/>
 </div>
 
 ## Projetos
