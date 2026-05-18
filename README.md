@@ -29,3 +29,15 @@
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/>
   <img alt="Prolog" src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white"/>
 </div>
+
+## Projetos
+
+### Em andamento
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Nome do Projeto] | Breve descrição | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+
+### Concluídos
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Nome do Projeto](link) | Breve descrição | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) |
