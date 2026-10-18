@@ -38,11 +38,14 @@
 > **InLaw — Laboratório de Inovação e Direito da AMF**
 > 📅 2026 — atual · 🏛️ AMF
 
+> **Geotecnologias nas práticas pedagógicas do ensino médio integrado: desafios e potencialidades**
+> 📅 2026 — atual · 🏛️ UFSM
+
 > **Plataforma Digital para Modernização dos Serviços de Mobilidade Urbana**
 > 📅 2026 — atual · 🏛️ UFSM
 
 > **Desenvolvimento de Técnicas de Otimização de Desempenho para Turbinas Eólicas**
-> 📅 2025 — atual · 🏛️ UFSM
+> 📅 2025 — 2026 · 🏛️ UFSM
 
 > **Mecanismos Tecnológicos e suas Aplicações na Execução de Crimes em Ambientes Virtuais**
 > 📅 2025 — atual · 🏛️ UFSM
@@ -68,8 +71,12 @@
 > **PET Sistemas de Informação**
 > 📅 2026 — atual · 🏛️ UFSM
 
+> **LIFA**
+> 📅 2025 — atual · 🏛️ UFSM
+
 
 ## 📌 Estágio
 
 > **Desenvolvedora em empresa de tecnologia**
 > 📅 2022 - 2024 · JAVA
+> 📅 2026 - atual · VoraERP
