@@ -76,10 +76,14 @@
 
 ## 📌 Eventos
 
+>
 > SAINF
-> JICOMP
-> Feira de Ciências
-> ProgramAda
+>
+>JICOMP
+>
+>Feira de Ciências
+>
+>ProgramAda
 
 
 ## 📌 Estágio
