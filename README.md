@@ -35,9 +35,6 @@
 
 ### 🔬 Pesquisa
 
-> **InLaw — Laboratório de Inovação e Direito da AMF**
-> 📅 2026 — atual · 🏛️ AMF
-
 > **Geotecnologias nas práticas pedagógicas do ensino médio integrado: desafios e potencialidades**
 > 📅 2026 — atual · 🏛️ UFSM
 
@@ -73,6 +70,16 @@
 
 > **LIFA**
 > 📅 2025 — atual · 🏛️ UFSM
+
+> **InLaw — Laboratório de Inovação e Direito da AMF**
+> 📅 2026 — atual · 🏛️ AMF
+
+## 📌 Eventos
+
+> SAINF
+> JICOMP
+> Feira de Ciências
+> ProgramAda
 
 
 ## 📌 Estágio
